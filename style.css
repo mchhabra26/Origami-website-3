@@ -1,0 +1,26 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: light palevioletred;
+    padding: 15px;
+    font-size: 400;
+    color: lightpink;
+}
+body{
+    margin: 0px;
+    background-color: aquamarine;
+
+}
+.grid img{
+    border: 2px solid lightseagreen;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color: lightgreen;
+    padding: 30px;
+    width: 310px;
+    font-family: fantasy;
+
+    
+}
